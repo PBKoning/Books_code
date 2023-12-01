@@ -1,0 +1,4 @@
+title:      Object-Oriented Python - Master OOP by Building Games and GUIs
+author:     Irv Kalb
+publisher:  No Starch Press
+year:       2022 (first print)
